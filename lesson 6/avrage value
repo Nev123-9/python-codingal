@@ -1,0 +1,12 @@
+mean = 38 
+worng_number = 36
+correct_number=56
+total_number=40
+sum = mean*total_number
+print("the sum is ", sum)
+
+num2=sum-(worng_number- correct_number)
+print("new sum is " ,num2)
+
+mean2=num2/total_number
+print(mean2)
